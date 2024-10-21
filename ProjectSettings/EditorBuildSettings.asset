@@ -6,6 +6,39 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 0d233111d4a555849b03768661985fcf
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 8c8038dd593448348b69c5ccd6431b02
+  - enabled: 1
+    path: Assets/Scenes/Section -1.unity
+    guid: b95df967f62f0cd49b7ab898a94c009b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Section 1.unity
+    guid: 09f9d769ffdcf2a4cb5080e5875650ad
+  - enabled: 1
+    path: Assets/Scenes/Section 2.unity
+    guid: 75a6b7dbb94ea274993b648e2bae1a21
+  - enabled: 1
+    path: Assets/Scenes/Section 3.unity
+    guid: c7ff56566cbd11a41bfbf32f8dcdac40
+  - enabled: 1
+    path: Assets/Scenes/Section 4.unity
+    guid: 6cd8c31c990f0124195a6e38470a6553
+  - enabled: 1
+    path: Assets/Scenes/Section 5.unity
+    guid: 433645eb250646c4e947181191f387c1
+  - enabled: 1
+    path: Assets/Scenes/Bossfight.unity
+    guid: eb78648a9282aa047b23992601e4229b
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 2a44940c669adc545b03eb8a0c6cc5ee
+  - enabled: 1
+    path: Assets/Scenes/VOID.unity
+    guid: 59cde0120120c5143ae9e3058c841edf
   m_configObjects: {}

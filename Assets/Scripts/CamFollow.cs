@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class FollowCamera : MonoBehaviour
+public class CamFollow : MonoBehaviour
 {
 
     public float interpVelocity;

@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EndPassage
+  - DarkLiquid
+  - v o i d
+  - BossAttack
   layers:
   - Default
   - TransparentFX
